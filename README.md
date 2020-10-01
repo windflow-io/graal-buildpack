@@ -1,6 +1,8 @@
 # GraalVM Buildpack
 
-This [buildpack](https://devcenter.heroku.com/articles/buildpacks) will install the [GraalVM](https://github.com/oracle/graal) Community Edition. Originally forked from https://github.com/jkutner/graal-buildpack
+This [buildpack](https://devcenter.heroku.com/articles/buildpacks) will install the [GraalVM](https://github.com/oracle/graal) Community Edition 20.2.0 for Java 11. Originally forked from https://github.com/jkutner/graal-buildpack
+
+!! NOT YET TESTED !!
 
 ## Usage
 
